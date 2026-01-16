@@ -76,7 +76,7 @@
     "proxy-agent": "^5.0.0",
     "supertest": "^6.3.1",
     "superwstest": "^2.0.3",
-    "svelte": "^3.55.0",
+    "svelte": "^4.2.19",
     "svelte-loader": "^3.1.4",
     "svelte-watch-resize": "^1.0.3",
     "typescript": "^5.1.3",
